@@ -1,6 +1,6 @@
 import yt_dlp
 
-a = input("Enter URL:")
+a = input("Enter URL: ")
 
 ydl_opts = {
     'format': 'best',
